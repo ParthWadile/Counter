@@ -17,12 +17,13 @@
 ---
 
 ## 📁 Project Structure
-Counter/
+
+
 ├── src/
-│ ├── App.jsx # Main counter logic
-│ ├── User.jsx # Sample component
-│ ├── main.jsx # App entry point
-│ ├── App.css # Styling
+│ ├── App.jsx              # Main counter logic
+│ ├── User.jsx              # Sample component
+│ ├── main.jsx            # App entry point
+│ ├── App.css             # Styling
 │ └── index.css
 │
 ├── public/
@@ -32,3 +33,5 @@ Counter/
 ├── package.json
 ├── vite.config.js
 └── README.md
+
+###
