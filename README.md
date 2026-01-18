@@ -17,21 +17,29 @@
 ---
 
 ## 📁 Project Structure
+Counter/<br>
+├── src/<br>
+│ ├── App.jsx # Main counter logic<br>
+│ ├── User.jsx # Sample component<br>
+│ ├── main.jsx # App entry point<br>
+│ ├── App.css # Styling<br>
+│ └── index.css # Global styles<br>
+├── public/<br>
+│ └── vite.svg<br>
+├── index.html<br>
+├── package.json<br>
+├── vite.config.js<br>
+└── README.md<br>
 
 
-├── src/
-│ ├── App.jsx              # Main counter logic
-│ ├── User.jsx              # Sample component
-│ ├── main.jsx            # App entry point
-│ ├── App.css             # Styling
-│ └── index.css
-│
-├── public/
-│ └── vite.svg
-│
-├── index.html
-├── package.json
-├── vite.config.js
-└── README.md
 
-###
+---
+
+## 🛠️ Installation & Setup
+
+> These steps assume Node.js is installed.
+
+1. Clone the repository:
+```bash
+git clone https://github.com/ParthWadile/Counter.git
+cd Counter
